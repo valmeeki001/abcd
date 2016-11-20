@@ -1,0 +1,89 @@
+{
+  "status": "true",
+  "message": "Success",
+  "match_details": [
+    {
+      "info": {
+        "cVenueCode": "TTB",
+        "cTableName": "Table 1",
+        "cEventType": "Men Doubles",
+        "cMatchNo": "Match 1",
+        "cRound": "First Round",
+        "nScheduledDate": "2016-11-18",
+        "nScheduledTime": "2",
+        "teamname1": "ABCTeam",
+        "teamname2": "BBCTeam",
+        "nVenueID": 1,
+        "nTableID": 1,
+        "nTeamID1": 1,
+        "nTeamID2": 2,
+        "nTournamentID": 1,
+        "nFixtureDetailsID": 3,
+        "cOfficialsName": "Official 2",
+        "nEventTypeID": 1
+      },
+      "team1": [
+        {
+          "player_name": "Rijo Joseph"
+        },
+        {
+          "player_name": "Crowly Mathew"
+        }
+      ],
+      "team2": [
+        {
+          "player_name": "Blase"
+        },
+        {
+          "player_name": "Kiran"
+        }
+      ],
+      "no_of_games": 5,
+      "game_history": [
+        {
+          "nGameNo": 1,
+          "cTeam1Side": "A",
+          "cTeam2Side": "B",
+          "nWinnerTeamID": 1,
+          "nTeam1Point": 11,
+          "nTeam2Point": 9,
+          "nServeTeamID": 1,
+          "IsExpedite": "N"
+        }
+      ]
+    },
+    {
+      "info": {
+        "cVenueCode": "TTB",
+        "cTableName": "Table 2",
+        "cEventType": "Men Singles",
+        "cMatchNo": "Match 2",
+        "cRound": "First Round",
+        "nScheduledDate": "2016-11-18",
+        "nScheduledTime": "3",
+        "teamname1": "CTeam",
+        "teamname2": "D Team",
+        "nVenueID": 1,
+        "nTableID": 2,
+        "nTeamID1": 3,
+        "nTeamID2": 4,
+        "nTournamentID": 1,
+        "nFixtureDetailsID": 4,
+        "cOfficialsName": "Official 2",
+        "nEventTypeID": 2
+      },
+      "team1": [
+        {
+          "player_name": "Sam"
+        }
+      ],
+      "team2": [
+        {
+          "player_name": "Joseph"
+        }
+      ],
+      "no_of_games": 3,
+      "game_history": []
+    }
+  ]
+}
