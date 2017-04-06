@@ -1,0 +1,29 @@
+{
+  "status": "true",
+  "data": [
+    {
+      "title": "Music",
+      "url_video_thumb": "https://i.stack.imgur.com/J37et.jpg"
+    },
+    {
+      "title": "Sports",
+      "url_video_thumb": "https://i.stack.imgur.com/5yx4n.jpg"
+    },
+    {
+      "title": "Games",
+      "url_video_thumb": "https://i.stack.imgur.com/4MhmA.jpg"
+    },
+    {
+      "title": "Movies",
+      "url_video_thumb": "https://i.stack.imgur.com/PfDMr.jpg"
+    },
+    {
+      "title": "Tv shows",
+      "url_video_thumb": "https://i.stack.imgur.com/xApzv.jpg"
+    },
+    {
+      "title": "News",
+      "url_video_thumb": "https://i.stack.imgur.com/j5JWV.jpg"
+    }
+  ]
+}
